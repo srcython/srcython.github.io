@@ -2,13 +2,13 @@
 layout: post
 title: Hello World!
 ---
-**Tutorial-1(Variables)**
+**Tutorial-1 (Variables)**
 
 
 ```py 
 my_variable = 10
 ```
-**Tutorial-2(Booleans)**
+**Tutorial-2 (Booleans)**
 
 
 ```py
