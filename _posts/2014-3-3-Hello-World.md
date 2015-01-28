@@ -16,3 +16,9 @@ my_int = 7
 my_float = 1.23
 my_bool = True
 ```
+**Tutorial-3 (A Matter of Interpretation)**
+
+```py
+spam = True
+eggs = False
+```
