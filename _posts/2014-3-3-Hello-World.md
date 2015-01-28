@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 ---
 
-**Tutorial-1**
+**Tutorial-1(Booleans)**
 
 
 ```py
